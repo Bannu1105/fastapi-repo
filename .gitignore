@@ -1,0 +1,46 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+.cache
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pydantic cache
+.pdm.toml
